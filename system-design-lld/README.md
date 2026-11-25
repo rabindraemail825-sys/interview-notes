@@ -28,28 +28,28 @@ Notes and practice for learning LLD for interviews.
 
 A curated set of commonly asked problems. Difficulty is a suggested study order, not an official ranking.
 
-| TopicName | Difficulty | Link |
-|---|---|---|
-| Tic-Tac-Toe | Basic | |
-| Snake and Ladder | Basic | |
-| Vending Machine | Basic | |
-| Logging Framework | Basic | |
-| LRU Cache | Basic | |
-| Parking Lot | Easy | |
-| ATM | Easy | |
-| Library Management System | Easy | |
-| Notification System | Easy | |
-| Hotel Management System | Easy | |
-| Elevator System | Medium | |
-| Splitwise | Medium | |
-| Rate Limiter | Medium | |
-| Pub-Sub System | Medium | |
-| Meeting Scheduler | Medium | |
-| Movie Ticket Booking (BookMyShow) | Hard | |
-| Chess | Hard | |
-| Ride-Sharing Service (Uber) | Hard | |
-| Food Delivery Service (Swiggy) | Hard | |
-| Online Shopping System (Amazon) | Hard | |
+| S.No | TopicName | Difficulty | Link |
+|---|---|---|---|
+| 1 | Tic-Tac-Toe | Basic | |
+| 2 | Snake and Ladder | Basic | |
+| 3 | Vending Machine | Basic | |
+| 4 | Logging Framework | Basic | |
+| 5 | LRU Cache | Basic | |
+| 6 | Parking Lot | Easy | |
+| 7 | ATM | Easy | |
+| 8 | Library Management System | Easy | |
+| 9 | Notification System | Easy | |
+| 10 | Hotel Management System | Easy | |
+| 11 | Elevator System | Medium | |
+| 12 | Splitwise | Medium | |
+| 13 | Rate Limiter | Medium | |
+| 14 | Pub-Sub System | Medium | |
+| 15 | Meeting Scheduler | Medium | |
+| 16 | Movie Ticket Booking (BookMyShow) | Hard | |
+| 17 | Chess | Hard | |
+| 18 | Ride-Sharing Service (Uber) | Hard | |
+| 19 | Food Delivery Service (Swiggy) | Hard | |
+| 20 | Online Shopping System (Amazon) | Hard | |
 
 ## Interview format
 
