@@ -24,7 +24,7 @@ Notes and practice for learning LLD for interviews.
 - [ ] Producer-consumer
 - [ ] Thread-safe class design
 
-## Practice problems: top 20 LLD interview questions
+## Practice problems: 21 common LLD interview questions
 
 A curated set of commonly asked problems. Difficulty is a suggested study order, not an official ranking.
 
@@ -45,11 +45,12 @@ A curated set of commonly asked problems. Difficulty is a suggested study order,
 | 13 | Rate Limiter | Medium | |
 | 14 | Pub-Sub System | Medium | |
 | 15 | Meeting Scheduler | Medium | |
-| 16 | Movie Ticket Booking (BookMyShow) | Hard | |
-| 17 | Chess | Hard | |
-| 18 | Ride-Sharing Service (Uber) | Hard | |
-| 19 | Food Delivery Service (Swiggy) | Hard | |
-| 20 | Online Shopping System (Amazon) | Hard | |
+| 16 | Task Scheduler | Medium | |
+| 17 | Movie Ticket Booking (BookMyShow) | Hard | |
+| 18 | Chess | Hard | |
+| 19 | Ride-Sharing Service (Uber) | Hard | |
+| 20 | Food Delivery Service (Swiggy) | Hard | |
+| 21 | Online Shopping System (Amazon) | Hard | |
 
 ## Interview format
 
