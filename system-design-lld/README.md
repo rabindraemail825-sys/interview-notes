@@ -30,7 +30,7 @@ A curated set of commonly asked problems. Difficulty is a suggested study order,
 
 | S.No | TopicName | Difficulty | Link |
 |---|---|---|---|
-| 1 | Tic-Tac-Toe | Basic | [Solution](02-basic/01-tic-tac-toe.md) |
+| 1 | Tic-Tac-Toe | Basic | [Solution](practice-problems/01-tic-tac-toe.md) |
 | 2 | Snake and Ladder | Basic | |
 | 3 | Vending Machine | Basic | |
 | 4 | Logging Framework | Basic | |
