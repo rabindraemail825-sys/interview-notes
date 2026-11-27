@@ -31,11 +31,11 @@ A curated set of commonly asked problems. Difficulty is a suggested study order,
 | S.No | TopicName | Difficulty | Link |
 |---|---|---|---|
 | 1 | Tic-Tac-Toe | Basic | [Solution](practice-problems/01-tic-tac-toe.md) |
-| 2 | Snake and Ladder | Basic | |
-| 3 | Vending Machine | Basic | |
-| 4 | Logging Framework | Basic | |
-| 5 | LRU Cache | Basic | |
-| 6 | Parking Lot | Easy | |
+| 2 | Snake and Ladder | Basic | [Solution](practice-problems/02-snake-and-ladder.md) |
+| 3 | Vending Machine | Basic | [Solution](practice-problems/03-vending-machine.md) |
+| 4 | Logging Framework | Basic | [Solution](practice-problems/04-logging-framework.md) |
+| 5 | LRU Cache | Basic | [Solution](practice-problems/05-lru-cache.md) |
+| 6 | Parking Lot | Easy | [Solution](practice-problems/06-parking-lot.md) |
 | 7 | ATM | Easy | |
 | 8 | Library Management System | Easy | |
 | 9 | Notification System | Easy | |
