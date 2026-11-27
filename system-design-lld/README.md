@@ -40,11 +40,11 @@ A curated set of commonly asked problems. Difficulty is a suggested study order,
 | 8 | Library Management System | Easy | [Solution](practice-problems/08-library-management.md) |
 | 9 | Notification System | Easy | [Solution](practice-problems/09-notification-system.md) |
 | 10 | Hotel Management System | Easy | [Solution](practice-problems/10-hotel-management.md) |
-| 11 | Elevator System | Medium | |
-| 12 | Splitwise | Medium | |
-| 13 | Rate Limiter | Medium | |
-| 14 | Pub-Sub System | Medium | |
-| 15 | Meeting Scheduler | Medium | |
+| 11 | Elevator System | Medium | [Solution](practice-problems/11-elevator-system.md) |
+| 12 | Splitwise | Medium | [Solution](practice-problems/12-splitwise.md) |
+| 13 | Rate Limiter | Medium | [Solution](practice-problems/13-rate-limiter.md) |
+| 14 | Pub-Sub System | Medium | [Solution](practice-problems/14-pub-sub.md) |
+| 15 | Meeting Scheduler | Medium | [Solution](practice-problems/15-meeting-scheduler.md) |
 | 16 | Task Scheduler | Medium | |
 | 17 | Movie Ticket Booking (BookMyShow) | Hard | |
 | 18 | Chess | Hard | |
