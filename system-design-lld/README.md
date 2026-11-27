@@ -36,10 +36,10 @@ A curated set of commonly asked problems. Difficulty is a suggested study order,
 | 4 | Logging Framework | Basic | [Solution](practice-problems/04-logging-framework.md) |
 | 5 | LRU Cache | Basic | [Solution](practice-problems/05-lru-cache.md) |
 | 6 | Parking Lot | Easy | [Solution](practice-problems/06-parking-lot.md) |
-| 7 | ATM | Easy | |
-| 8 | Library Management System | Easy | |
-| 9 | Notification System | Easy | |
-| 10 | Hotel Management System | Easy | |
+| 7 | ATM | Easy | [Solution](practice-problems/07-atm.md) |
+| 8 | Library Management System | Easy | [Solution](practice-problems/08-library-management.md) |
+| 9 | Notification System | Easy | [Solution](practice-problems/09-notification-system.md) |
+| 10 | Hotel Management System | Easy | [Solution](practice-problems/10-hotel-management.md) |
 | 11 | Elevator System | Medium | |
 | 12 | Splitwise | Medium | |
 | 13 | Rate Limiter | Medium | |
