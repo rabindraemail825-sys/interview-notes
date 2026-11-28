@@ -45,7 +45,7 @@ A curated set of commonly asked problems. Difficulty is a suggested study order,
 | 13 | Rate Limiter | Medium | [Solution](practice-problems/13-rate-limiter.md) |
 | 14 | Pub-Sub System | Medium | [Solution](practice-problems/14-pub-sub.md) |
 | 15 | Meeting Scheduler | Medium | [Solution](practice-problems/15-meeting-scheduler.md) |
-| 16 | Task Scheduler | Medium | |
+| 16 | Task Scheduler | Medium | [Solution](practice-problems/16-task-scheduler.md) |
 | 17 | Movie Ticket Booking (BookMyShow) | Hard | |
 | 18 | Chess | Hard | |
 | 19 | Ride-Sharing Service (Uber) | Hard | |
