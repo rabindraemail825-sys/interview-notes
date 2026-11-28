@@ -46,7 +46,7 @@ A curated set of commonly asked problems. Difficulty is a suggested study order,
 | 14 | Pub-Sub System | Medium | [Solution](practice-problems/14-pub-sub.md) |
 | 15 | Meeting Scheduler | Medium | [Solution](practice-problems/15-meeting-scheduler.md) |
 | 16 | Task Scheduler | Medium | [Solution](practice-problems/16-task-scheduler.md) |
-| 17 | Movie Ticket Booking (BookMyShow) | Hard | |
+| 17 | Movie Ticket Booking (BookMyShow) | Hard | [Solution](practice-problems/17-movie-ticket-booking.md) |
 | 18 | Chess | Hard | |
 | 19 | Ride-Sharing Service (Uber) | Hard | |
 | 20 | Food Delivery Service (Swiggy) | Hard | |
