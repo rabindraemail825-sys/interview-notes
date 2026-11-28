@@ -50,7 +50,7 @@ A curated set of commonly asked problems. Difficulty is a suggested study order,
 | 18 | Chess | Hard | [Solution](practice-problems/18-chess.md) |
 | 19 | Ride-Sharing Service (Uber) | Hard | [Solution](practice-problems/19-ride-sharing-service.md) |
 | 20 | Food Delivery Service (Swiggy) | Hard | [Solution](practice-problems/20-food-delivery-service.md) |
-| 21 | Online Shopping System (Amazon) | Hard | |
+| 21 | Online Shopping System (Amazon) | Hard | [Solution](practice-problems/21-online-shopping-system.md) |
 
 ## Interview format
 
